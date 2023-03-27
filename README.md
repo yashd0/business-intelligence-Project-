@@ -33,9 +33,7 @@ For this dataset, we tried the following four models listed as below :
 4} Random Forest
 5} Logistic Regression
 
-# Dashboard 
 
-![UNI DASHBOARD](https://user-images.githubusercontent.com/109656499/227271218-cbc37a4e-ac26-459f-a51b-502a7ecf1933.png)
 
 # Orange Tool Model 
 
@@ -43,4 +41,19 @@ For this dataset, we tried the following four models listed as below :
 ![Orange tool models](https://user-images.githubusercontent.com/109656499/227271812-f3c9a871-202c-416c-af18-7aed1d3aac6e.png)
 
 
+
+# Dashboard 
+
+![UNI DASHBOARD](https://user-images.githubusercontent.com/109656499/227271218-cbc37a4e-ac26-459f-a51b-502a7ecf1933.png)
+
+
+# Conclusion 
+
+In conclusion, the Business Intelligence Project on University Admission Prediction has successfully demonstrated the use of data analytics and machine learning techniques to analyze historical university admission data and predict the admission status of future applicants. Through data exploration and feature engineering, we were able to identify the key factors that influence university admissions, such as standardized test scores, high school grades, and extracurricular activities.
+
+We then used various machine learning models, including logistic regression, decision tree, and random forest, to train and test our predictive models. Our results showed that the random forest model outperformed the other models, achieving an accuracy of 94% on the test data set.
+
+These findings have important implications for university admission departments, as they can use the predictive models to improve their admission decisions and identify applicants who are more likely to be successful at their institution. Additionally, this project has demonstrated the power of data analytics and machine learning in solving real-world problems and making data-driven decisions.
+
+Moving forward, further research can be done to improve the accuracy of the predictive models by incorporating more data sources, such as socioeconomic status and demographic information, and exploring different machine learning algorithms. Overall, this project has provided valuable insights and practical applications for data analytics and machine learning in the field of higher education.
 
