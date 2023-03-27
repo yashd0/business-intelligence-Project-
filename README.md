@@ -3,7 +3,7 @@
 In this Project, We have implemented various machine learning models that predict whether the probability of a student getting accepted into a University offering a Masters degree and we have build an attractive and eye-catching dashboard on Microsoft Power BI 
 
 
- # problem statement
+ # Problem Statement
  
  The admission process is a crucial aspect of any educational institution, and accurately predicting the likelihood of a student's admission can greatly benefit both the institution and the student. However, determining the factors that affect admission decisions and developing a model that can accurately predict admission outcomes can be challenging. Therefore, the goal of this project is to develop a machine learning model that can predict the likelihood of a student's admission based on various factors such as academic performance, cgpa score, GRE score ,TOFEL Score and demographic information. The model should be able to accurately predict admission outcomes for new applicants and provide insights into the factors that influence admission decisions.
  
