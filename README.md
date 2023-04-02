@@ -1,6 +1,10 @@
 # Business-Intelligence-Project-(University-Admission-Prediction) 
 
-In this Project, We have implemented various machine learning models that predict whether the probability of a student getting accepted into a University offering a Masters degree and we have build an attractive and eye-catching dashboard on Microsoft Power BI 
+In this Project, We have implemented various machine learning models and Dashboard with the help of
+
+* Orange Tool : Orange Tool Which is a data mining software that allows users to analyze and visualize complex data sets. It includes features such as data preprocessing, modeling, evaluation, and visualization that predict whether the probability of a student getting accepted into a University offering a Masters degree .  
+
+* Microsoft Power BI  : Power BI is a business analytics tool that can be used for admission prediction. It allows users to create interactive reports and dashboards that can be used to analyze data and make predictions. By integrating with machine learning algorithms and predictive models, Power BI can help institutions make data-driven decisions to optimize their admission processes and improve outcomes.
 
 
  # Problem Statement
@@ -10,6 +14,9 @@ In this Project, We have implemented various machine learning models that predic
 
 
 # Data
+
+DataSet Link : https://www.kaggle.com/code/nitindatta/graduate-admission-chances/input
+
 
 The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are :
 
@@ -21,6 +28,21 @@ Letter of Recommendation Strength ( out of 5 )
 Undergraduate GPA ( out of 10 ) 
 Research Experience ( either 0 or 1 ) 
 Chance of Admit ( ranging from 0 to 1 )
+
+
+
+# Data Exploration Sheet 
+This kernel mainly focuses on what parameters are important for a student to get into a graduate school.
+
+By the end of this kernel it will be clear of what are the scores required for different tests to have better admission chances and get into a good graduate school.
+
+Taking a look at our dataset for understanding:
+
+![ES](https://user-images.githubusercontent.com/109656499/229356053-bf8429ca-712a-460c-978b-f4eca30e8699.png)
+
+
+
+The above table gives us some intuition about all the columns and and some of their statistics
 
 
 # Model 
@@ -38,13 +60,23 @@ For this dataset, we tried the following four models listed as below :
 # Orange Tool Model 
 
 
+
+
 ![Orange tool models](https://user-images.githubusercontent.com/109656499/227271812-f3c9a871-202c-416c-af18-7aed1d3aac6e.png)
+
+
 
 
 
 # Dashboard 
 
+
+
+
 ![UNI DASHBOARD](https://user-images.githubusercontent.com/109656499/227271218-cbc37a4e-ac26-459f-a51b-502a7ecf1933.png)
+
+
+
 
 
 # Conclusion 
