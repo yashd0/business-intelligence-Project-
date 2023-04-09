@@ -20,14 +20,29 @@ DataSet Link : https://www.kaggle.com/code/nitindatta/graduate-admission-chances
 
 The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are :
 
-GRE Scores ( out of 340 )
-TOEFL Scores ( out of 120 )
-University Rating ( out of 5 ) 
-Statement of Purpose 
-Letter of Recommendation Strength ( out of 5 )
-Undergraduate GPA ( out of 10 ) 
-Research Experience ( either 0 or 1 ) 
-Chance of Admit ( ranging from 0 to 1 )
+. GRE Scores ( out of 340 )
+
+. TOEFL Scores ( out of 120 )
+
+. University Rating ( out of 5 )
+
+. Statement of Purpose 
+
+. Letter of Recommendation Strength ( out of 5 )
+
+. Undergraduate GPA ( out of 10 ) 
+
+. Research Experience ( either 0 or 1 ) 
+
+
+. Chance of Admit ( ranging from 0 to 1 )
+
+
+
+
+# Understanding The Output 
+This dataset was built with the purpose of helping students in shortlisting universities with their profiles. The predicted output gives them a fair idea about their chances for a particular university.
+In the context of the "Chance of Admit" parameter in this dataset, a value of 0.5 would represent a 50% probability of the candidate being admitted to the Masters program. This means that the candidate has an equal chance of being admitted or rejected based on their profile.
 
 
 
