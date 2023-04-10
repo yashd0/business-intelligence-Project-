@@ -15,7 +15,7 @@ In this Project, We have implemented various machine learning models and Dashboa
 
 # Data
 
-DataSet Link : https://www.kaggle.com/code/nitindatta/graduate-admission-chances/input
+DataSet Link : https://www.kaggle.com/datasets/mohansacharya/graduate-admissions 
 
 
 The dataset contains several parameters which are considered important during the application for Masters Programs. The parameters included are :
