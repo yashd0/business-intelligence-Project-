@@ -64,11 +64,12 @@ The above table gives us some intuition about all the columns and and some of th
 
 For this dataset, we tried the following four models listed as below :
 
-1} AdaBoost 
-2} Naive Bayes 
-3} Neural Network
-4} Random Forest
-5} Logistic Regression
+. Linear Regression
+. Gradient Boosting
+. SVM
+. Random Forest
+
+
 
 
 
@@ -77,8 +78,7 @@ For this dataset, we tried the following four models listed as below :
 
 
 
-![Orange tool models](https://user-images.githubusercontent.com/109656499/227271812-f3c9a871-202c-416c-af18-7aed1d3aac6e.png)
-
+![ot](https://user-images.githubusercontent.com/109656499/230832560-47476878-eb66-4602-89f0-f95f421044fe.png)
 
 
 
@@ -88,10 +88,12 @@ For this dataset, we tried the following four models listed as below :
 
 
 
-![UNI DASHBOARD](https://user-images.githubusercontent.com/109656499/227271218-cbc37a4e-ac26-459f-a51b-502a7ecf1933.png)
 
 
-
+![db](https://user-images.githubusercontent.com/109656499/230832771-1b1e5068-9c8c-4db1-a415-fec051d4e0cd.png)
+  
+  
+  
 
 
 # Conclusion 
