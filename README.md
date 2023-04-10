@@ -53,7 +53,9 @@ By the end of this kernel it will be clear of what are the scores required for d
 
 Taking a look at our dataset for understanding:
 
-![ES](https://user-images.githubusercontent.com/109656499/229356053-bf8429ca-712a-460c-978b-f4eca30e8699.png)
+
+![e1](https://user-images.githubusercontent.com/109656499/230855564-3a32a4db-d13e-41d3-9acd-dbde0a24f268.png)
+
 
 
 
