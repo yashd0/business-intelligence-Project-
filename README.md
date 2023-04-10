@@ -87,10 +87,14 @@ For this dataset, we tried the following four models listed as below :
 
 
 
+![db](https://user-images.githubusercontent.com/109656499/230834495-87fb2a56-7264-48c9-a26b-61c68cdb3b1d.png)
 
 
 
-![db](https://user-images.githubusercontent.com/109656499/230832771-1b1e5068-9c8c-4db1-a415-fec051d4e0cd.png)
+
+![DB2](https://user-images.githubusercontent.com/109656499/230836506-53f6c545-af1c-46f0-8ecf-0081214a82f8.png)
+
+
   
   
   
